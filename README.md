@@ -1,4 +1,4 @@
-# Ner-slapping
+# Ner slapping
 
 **Trickal Slap** is a standalone Windows executable distributed as a community project.  
 This repository provides the compiled executable and related downloadable assets via GitHub Releases.
@@ -17,3 +17,5 @@ All downloads are hosted using **GitHub Releases**.
 - **Trickal Slap Executable**
 - **Ner Slapping (Compressed File)**
 
+➡️ **Download here:**  
+[Ner Slapping](https://github.com/Gurshan07/Ner-slapping/tree/v1.0)
