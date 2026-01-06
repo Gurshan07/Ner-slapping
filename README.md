@@ -18,4 +18,4 @@ All downloads are hosted using **GitHub Releases**.
 - **Ner Slapping (Compressed File)**
 
 ➡️ **Download here:**  
-[Ner Slapping](https://github.com/Gurshan07/Ner-slapping/tree/v1.0)
+[Ner Slapping](https://github.com/Gurshan07/Ner-slapping/releases/tag/v1.0))
