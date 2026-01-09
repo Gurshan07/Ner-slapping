@@ -8,7 +8,8 @@ This repository provides the compiled executable and related downloadable assets
 > This is a community-created utility provided for educational or entertainment purposes only.
 
 ---
-
+<img src="https://moecounter.jawandha-moecounter.workers.dev/offset/NerSlapping.png">
+---
 ## 📦 Downloads
 
 All downloads are hosted using **GitHub Releases**.
