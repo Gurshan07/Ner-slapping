@@ -10,6 +10,7 @@ This repository provides the compiled executable and related downloadable assets
 ---
 <img src="https://moecounter.jawandha-moecounter.workers.dev/offset/NerSlapping.png">
 ---
+
 ## 📦 Downloads
 
 All downloads are hosted using **GitHub Releases**.
